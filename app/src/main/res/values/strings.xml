@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-GoF</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduction">Android应用框架与设计模式</string>
+    <string name="seprate_variant">变与不变之分离</string>
+</resources>
